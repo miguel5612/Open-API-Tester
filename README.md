@@ -1,5 +1,10 @@
 # Open-API-Tester
 Un testeador de API's de codigo abierto y facil uso.
+
+## API recomendada para ejecutar las pruebas realizadas por este medio
+
+* https://github.com/ggjv-dev/Apis-ScreenPlay
+
 # Instrucciones
 1. Cuenta con la siguiente información previo a tu ingreso:
 
@@ -41,3 +46,7 @@ Por seguridad de la informacion se borra cada minuto los datos de la hoja Datadr
 # Descargo de Responsabilidad
 
 Debes emplear este servicio siempre unicamente bajo tu responsabilidad.
+
+## Autor
+
+2021.03 Miguel Angel Califa Urquiza
