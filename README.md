@@ -3,15 +3,15 @@ Un testeador de API's de codigo abierto y facil uso.
 # Instrucciones
 1. Cuenta con la siguiente información previo a tu ingreso:
 a. Tener tu API documentada siguiendo el siguiente formato:
-https://docs.google.com/spreadsheets/d/1INFFub0M_0TqlsHrf20U7ihY1VpdvdahAOf328orvxE/edit?usp=sharing
+* https://docs.google.com/spreadsheets/d/1INFFub0M_0TqlsHrf20U7ihY1VpdvdahAOf328orvxE/edit?usp=sharing
 
 b. Contar con una base de datos como la que se observa en la pagina de datos (Para recrear el escenario exitoso - Success):
-https://docs.google.com/spreadsheets/d/13X1BZO_N78T7FtvkIIb4f3LGczai9ETakBKR1NOaimU/edit#gid=0
+* https://docs.google.com/spreadsheets/d/13X1BZO_N78T7FtvkIIb4f3LGczai9ETakBKR1NOaimU/edit#gid=0
 
 c. Proporcionar un enlace a un folder publico de Google Drive o tu correo electronico para enviar el Datadriven.
 
 3. Ingresa al siguiente enlace y llena los campos correspondientes:
-https://docs.google.com/spreadsheets/d/13X1BZO_N78T7FtvkIIb4f3LGczai9ETakBKR1NOaimU/edit#gid=0
+* https://docs.google.com/spreadsheets/d/13X1BZO_N78T7FtvkIIb4f3LGczai9ETakBKR1NOaimU/edit#gid=0
 
 3.1 Para envio por correo electronico:
 3.1.1 Ingresa al frente de enlace modelo canonico el link de Excel de Google publico donde se encuentra la documentacion del API.
@@ -27,3 +27,6 @@ https://docs.google.com/spreadsheets/d/13X1BZO_N78T7FtvkIIb4f3LGczai9ETakBKR1NOa
 
 # Precauciones
 Por seguridad de la informacion se borra cada minuto los datos de la hoja Datadriven y se reconstruye todo el documento, por favor respalde siempre su informacion en su computador y/o correo electronico.
+
+# Descargo de Responsabilidad
+Debes emplear este servicio siempre unicamente bajo tu responsabilidad.
