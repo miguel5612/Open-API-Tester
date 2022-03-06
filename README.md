@@ -2,6 +2,7 @@
 Un testeador de API's de codigo abierto y facil uso.
 # Instrucciones
 1. Cuenta con la siguiente información previo a tu ingreso:
+
 a. Tener tu API documentada siguiendo el siguiente formato:
 * https://docs.google.com/spreadsheets/d/1INFFub0M_0TqlsHrf20U7ihY1VpdvdahAOf328orvxE/edit?usp=sharing
 
